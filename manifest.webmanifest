@@ -1,0 +1,10 @@
+{
+  "name": "Pantai Surumanis",
+  "short_name": "Surumanis",
+  "lang": "id",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#F3EFE7",
+  "theme_color": "#30463F",
+  "description": "Panduan destinasi Pantai Surumanis Kebumen."
+}
